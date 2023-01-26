@@ -1,0 +1,6 @@
+a = int(input("Adj meg egy számot!")
+b = int(input("Adj meg még egy számot!")
+if a > b:
+  print(a, "a nagyobb!")
+else:
+  print(b, "a nagyobb!")
